@@ -12,6 +12,10 @@
   text-decoration: none;
 }
 
+html {
+  scroll-behavior: smooth; //agar perpindahan section smoth
+}
+
 body {
   font-family: "Poppins", sans-serif;
   background-color: var(--bg);
